@@ -1,4 +1,4 @@
-## Hi there 👋
+## Minjun Kim
 
 <!--
 **violet-mj/violet-mj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 ### Experience
-1. icpc seoul regional (2023.11)
-2. Hyundai softeer bootcamp 4th (2024.07~2024.08)
+- icpc seoul regional (2023.11)
+- hyundai softeer bootcamp 4th (2024.07~2024.08)
 
 ### Status
 
