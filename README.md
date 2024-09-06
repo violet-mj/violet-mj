@@ -31,4 +31,6 @@ Here are some ideas to get you started:
 ### 🎈Codeforces ###
 [![CodeForces Profile](https://cf.leed.at?id=minjunnnn)](https://codeforces.com/profile/minjunnnn)
 
+## Certification
+- 정보처리기사 (2023.06.09)
 
