@@ -15,8 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 ### Experience
 1. icpc seoul regional (2023.11)
 2. Hyundai softeer bootcamp 4th (2024.07~2024.08)
+
+### Status
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=alswnssl0528)](https://solved.ac/alswnssl0528)
+
+[![CodeForces Profile](https://cf.leed.at?id=minjunnnn)](https://codeforces.com/profile/minjunnnn)
 
 
