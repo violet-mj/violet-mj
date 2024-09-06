@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 ## PS/CP
 
-### 🎈BOJ/solved.ac ###
+### 🎈BOJ
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=alswnssl0528)](https://solved.ac/alswnssl0528)
 
-### 🎈Codeforces ###
+### 🎈Codeforces
 [![CodeForces Profile](https://cf.leed.at?id=minjunnnn)](https://codeforces.com/profile/minjunnnn)
 
 ## Certification
