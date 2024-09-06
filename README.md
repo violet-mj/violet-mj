@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **External Activity** | 2024.07~2024.08 | [Hyundai Softeer Bootcamp](https://softeerbootcamp.hyundaimotorgroup.com/) | **[Hyundai Motor Group](https://www.hyundai.com/kr/ko/e)** |
+| **External Activity** | 2024.07~2024.08 | Hyundai Softeer Bootcamp 4th | **[Hyundai Motor Group](https://www.hyundai.com/kr/ko/e)** |
 | **External Activity** | 2023.11 | [ICPC Seoul Regional Contest](https://icpckorea.org/) | **[NIA](https://www.nia.or.kr/site/nia_kor/main.do)** |
 | **Education** | 2017.03~2024.03 | [Majored in Software Dept.](https://cms.dankook.ac.kr/web/sw) | **[Dankook University](https://www.dankook.ac.kr/web/kor)** |
 
