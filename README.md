@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Experience
-- icpc seoul regional (2023.11)
+- icpc seoul regional contest (2023.11)
 - hyundai softeer bootcamp 4th (2024.07~2024.08)
 
 ### Stats
