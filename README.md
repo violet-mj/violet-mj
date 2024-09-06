@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 | **External Activity** | 2023.11 | [ICPC Seoul Regional Contest](https://icpckorea.org/) | **[NIA](https://www.nia.or.kr/site/nia_kor/main.do)** |
 | **Education** | 2017.03~2024.03 | [Majored in Software Dept.](https://cms.dankook.ac.kr/web/sw) | **[Dankook University](https://www.dankook.ac.kr/web/kor)** |
 
-### Stats
+### Problem Solving
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=alswnssl0528)](https://solved.ac/alswnssl0528)
 
