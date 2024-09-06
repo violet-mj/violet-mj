@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Experience
+1. icpc seoul regional (2023.11)
+2. Hyundai softeer bootcamp 4th (2024.07~2024.08)
+
+
