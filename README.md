@@ -1,4 +1,4 @@
-## Minjun Kim
+# Minjun Kim
 
 <!--
 **violet-mj/violet-mj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### History
+## History
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
@@ -23,10 +23,12 @@ Here are some ideas to get you started:
 | **External Activity** | 2023.11 | [ICPC Seoul Regional Contest](https://icpckorea.org/) | **[NIA](https://www.nia.or.kr/site/nia_kor/main.do)** |
 | **Education** | 2017.03~2024.03 | [Majored in Software Dept.](https://cms.dankook.ac.kr/web/sw) | **[Dankook University](https://www.dankook.ac.kr/web/kor)** |
 
-### Problem Solving
+## PS/CP
 
+### 🎈BOJ/solved.ac ###
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=alswnssl0528)](https://solved.ac/alswnssl0528)
 
+### 🎈Codeforces ###
 [![CodeForces Profile](https://cf.leed.at?id=minjunnnn)](https://codeforces.com/profile/minjunnnn)
 
 
