@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - icpc seoul regional (2023.11)
 - hyundai softeer bootcamp 4th (2024.07~2024.08)
 
-### Status
+### Stats
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=alswnssl0528)](https://solved.ac/alswnssl0528)
 
